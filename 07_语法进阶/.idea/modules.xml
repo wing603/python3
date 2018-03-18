@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../02_分支/.idea/02_分支.iml" filepath="$PROJECT_DIR$/../02_分支/.idea/02_分支.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../03_循环/.idea/03_循环.iml" filepath="$PROJECT_DIR$/../03_循环/.idea/03_循环.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04_函数/.idea/04_函数.iml" filepath="$PROJECT_DIR$/../04_函数/.idea/04_函数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" filepath="$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理.iml" filepath="$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/07_语法进阶.iml" filepath="$PROJECT_DIR$/.idea/07_语法进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" filepath="$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git_work/.idea/git_work.iml" filepath="$PROJECT_DIR$/../git_work/.idea/git_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py-test/.idea/py-test.iml" filepath="$PROJECT_DIR$/../py-test/.idea/py-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" filepath="$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unittest/.idea/unittest.iml" filepath="$PROJECT_DIR$/../unittest/.idea/unittest.iml" />
+    </modules>
+  </component>
+</project>
