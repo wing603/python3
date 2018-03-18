@@ -16,6 +16,7 @@
     <orderEntry type="module" module-name="py_api_test" />
     <orderEntry type="module" module-name="unittest" />
     <orderEntry type="module" module-name="git_work" />
+    <orderEntry type="module" module-name="python3" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -36,9 +36,20 @@ class MyTest(unittest.TestCase):
         r = requests.post(url=self.url, data=post_data)
         r_dict = json.loads(r.text)
         r_code = r_dict["code"]
+        self.assertEquals(r_code, 403, msg="请求失败")
+
+    def test_post_api_3(self):
+        post_data = {"user": "",
+                     "passwprd": "",
+                     "pay_account": ""}
+        r = requests.post(url=self.url, data=post_data)
+        t = r.text
+        s = json.loads(t)
+        r_dict = s
+        r_code = r_dict["code"]
         self.assertEquals(r_code, 500, msg="请求失败")
 
 
 if __name__ == "__main__":
     unittest.main()
- # 执行测试
+# 执行测试

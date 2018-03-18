@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/../git_work/.idea/git_work.iml" filepath="$PROJECT_DIR$/../git_work/.idea/git_work.iml" />
       <module fileurl="file://$PROJECT_DIR$/../py-test/.idea/py-test.iml" filepath="$PROJECT_DIR$/../py-test/.idea/py-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" filepath="$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python3/.idea/python3.iml" filepath="$PROJECT_DIR$/../python3/.idea/python3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../unittest/.idea/unittest.iml" filepath="$PROJECT_DIR$/../unittest/.idea/unittest.iml" />
     </modules>
   </component>
