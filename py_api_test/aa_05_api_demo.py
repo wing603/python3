@@ -26,6 +26,7 @@ class MyTest(unittest.TestCase):
         r_dict = json.loads(r.text)
         r_code = r_dict["code"]
         self.assertEqual(r_code, 200, msg="请求通过")
+        print(r.headers)
         # print(r.text)
         # print(r.status_code)
 
@@ -45,11 +46,18 @@ class MyTest(unittest.TestCase):
         r = requests.post(url=self.url, data=post_data)
         t = r.text
         s = json.loads(t)
-        r_dict = s
-        r_code = r_dict["code"]
+        # r_dict = s
+        r_code = s["code"]
         self.assertEquals(r_code, 500, msg="请求失败")
 
 
 if __name__ == "__main__":
-    unittest.main()
-# 执行测试
+    # unittest.main()
+    # 执行测试
+    suit = unittest.TestSuite()
+    suit.addTest(MyTest("test_post_api"))
+    suit.addTest(MyTest("test_post_api_2"))
+    runner = unittest.TextTestRunner()
+    runner.run(suit)
+    print("success case:")
+    print("fail case:")

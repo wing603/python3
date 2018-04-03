@@ -8,10 +8,22 @@
       <module fileurl="file://$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" filepath="$PROJECT_DIR$/../05_高级数据类型/.idea/05_高级数据类型.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理.iml" filepath="$PROJECT_DIR$/../06_名片管理/.idea/06_名片管理.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/07_语法进阶.iml" filepath="$PROJECT_DIR$/.idea/07_语法进阶.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../08_继承/.idea/08_继承.iml" filepath="$PROJECT_DIR$/../08_继承/.idea/08_继承.iml" />
       <module fileurl="file://$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" filepath="$PROJECT_DIR$/../08_面向对象基础/.idea/08_面向对象基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_异常/.idea/10_异常.iml" filepath="$PROJECT_DIR$/../10_异常/.idea/10_异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10_性能测试/.idea/10_性能测试.iml" filepath="$PROJECT_DIR$/../10_性能测试/.idea/10_性能测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../11_模块/.idea/11_模块.iml" filepath="$PROJECT_DIR$/../11_模块/.idea/11_模块.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../12_发布模块/.idea/12_发布模块.iml" filepath="$PROJECT_DIR$/../12_发布模块/.idea/12_发布模块.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13_文件/.idea/13_文件.iml" filepath="$PROJECT_DIR$/../13_文件/.idea/13_文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../155_单元API测试/.idea/155_单元API测试.iml" filepath="$PROJECT_DIR$/../155_单元API测试/.idea/155_单元API测试.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Auty/.idea/Auty.iml" filepath="$PROJECT_DIR$/../Auty/.idea/Auty.iml" />
       <module fileurl="file://$PROJECT_DIR$/../git_work/.idea/git_work.iml" filepath="$PROJECT_DIR$/../git_work/.idea/git_work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jiekou-python3/.idea/jiekou-python3.iml" filepath="$PROJECT_DIR$/../jiekou-python3/.idea/jiekou-python3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../py-test/.idea/py-test.iml" filepath="$PROJECT_DIR$/../py-test/.idea/py-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" filepath="$PROJECT_DIR$/../py_api_test/.idea/py_api_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_first_interface_auto_test/.idea/py_first_interface_auto_test.iml" filepath="$PROJECT_DIR$/../py_first_interface_auto_test/.idea/py_first_interface_auto_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_spider/.idea/py_spider.iml" filepath="$PROJECT_DIR$/../py_spider/.idea/py_spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_性能测试/.idea/py_性能测试.iml" filepath="$PROJECT_DIR$/../py_性能测试/.idea/py_性能测试.iml" />
       <module fileurl="file://$PROJECT_DIR$/../python3/.idea/python3.iml" filepath="$PROJECT_DIR$/../python3/.idea/python3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../unittest/.idea/unittest.iml" filepath="$PROJECT_DIR$/../unittest/.idea/unittest.iml" />
     </modules>

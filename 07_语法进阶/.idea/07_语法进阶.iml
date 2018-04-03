@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (07_语法进阶)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="06_名片管理" />
     <orderEntry type="module" module-name="py-test" />
@@ -17,6 +17,18 @@
     <orderEntry type="module" module-name="unittest" />
     <orderEntry type="module" module-name="git_work" />
     <orderEntry type="module" module-name="python3" />
+    <orderEntry type="module" module-name="Auty" />
+    <orderEntry type="module" module-name="py_性能测试" />
+    <orderEntry type="module" module-name="10_性能测试" />
+    <orderEntry type="module" module-name="py_first_interface_auto_test" />
+    <orderEntry type="module" module-name="py_spider" />
+    <orderEntry type="module" module-name="08_继承" />
+    <orderEntry type="module" module-name="10_异常" />
+    <orderEntry type="module" module-name="11_模块" />
+    <orderEntry type="module" module-name="12_发布模块" />
+    <orderEntry type="module" module-name="13_文件" />
+    <orderEntry type="module" module-name="jiekou-python3" />
+    <orderEntry type="module" module-name="155_单元API测试" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
